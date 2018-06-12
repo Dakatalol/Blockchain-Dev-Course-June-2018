@@ -1,0 +1,14 @@
+Metadata-Version: 2.0
+Name: Whirlpool
+Version: 1.0.0
+Summary: Whirlpool: Bindings for whirlpool hash reference implementation.
+Home-page: https://github.com/oohlaf/python-whirlpool
+Author: Olaf Conradi
+Author-email: olaf@conradi.org
+License: Public Domain
+Download-URL: https://github.com/oohlaf/python-whirlpool/archive/1.0.0.zip
+Description-Content-Type: text/x-rst
+
+python-whirlpool
+
+
